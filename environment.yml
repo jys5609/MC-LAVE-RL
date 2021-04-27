@@ -1,0 +1,15 @@
+name: mc-lave-rl
+
+dependencies:
+- python=3.6.10
+- pip
+- pip:
+  - parse
+  - jericho==2.4.0
+  - numpy==1.14.0
+  - tqdm
+  - spacy
+  - sentencepiece
+  - redis
+  - tensorflow==1.13.1
+  - sklearn
