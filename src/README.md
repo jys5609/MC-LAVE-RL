@@ -1,2 +1,2 @@
 ## Env
-`env.py` : contains jericho environment codes
+`env.py` : contains jericho MDP environment codes
