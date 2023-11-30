@@ -4,8 +4,8 @@
 
 `mcts.py`: codes for agent with Monte Carlo Tree Search
 
-`policy.py`: contains code for policy training on the Jericho env.
+`policy.py`: contains code for policy training and evaluation
 
-`qnetwork`: policy evaluation and q network used for policy improvement
+`qnetwork`: approximation of q network used for policy improvement
 
 `utils.py`: contains method getting softmax of Q, finding top k actions, finding near actions, string parsing, rom dict.
