@@ -4,7 +4,7 @@
 
 `mcts.py`: codes for agent with Monte Carlo Tree Search
 
-`policy.py`: contains code for policy training and evaluation
+`policy.py`: contains code for policy for the agent
 
 `qnetwork`: approximation of q network used for policy improvement
 
