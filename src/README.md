@@ -8,4 +8,4 @@
 
 `qnetwork`: q network used for policy improvement.
 
-`utils.py`: 
+`utils.py`: contains method getting softmax of Q
