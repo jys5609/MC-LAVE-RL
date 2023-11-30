@@ -2,9 +2,9 @@
 
 `env.py` : contains jericho MDP environment codes.
 
-`mcts.py`: codes for agent with Monte Carlo Tree Search
+`mcts.py`: codes for agent playing jericho MDP environment
 
-`policy.py`: contains code for policy for the agent
+`policy.py`: contains code for policy
 
 `qnetwork`: approximation of q network used for policy improvement
 
