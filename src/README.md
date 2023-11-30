@@ -2,7 +2,7 @@
 
 `env.py` : contains jericho MDP environment codes.
 
-`mcts.py`: MCTS Agent implementation.
+`mcts.py`: codes for agent with Monte Carlo Tree Search
 
 `policy.py`: constains code for policy training on the Jericho env.
 
